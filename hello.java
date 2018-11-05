@@ -22,6 +22,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import com.offcn.po.baicai;
 import com.offcn.service.shopService;
 
+//*****
 public class catchNum {
 
 	public static void main(String[] args) {
